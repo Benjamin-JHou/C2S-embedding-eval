@@ -1,0 +1,12 @@
+lineage,n_genes,mean_token_id,median_token_id,min_token_id
+Ribosomal,9,51.0,51.0,51
+Housekeeping,7,3276.4285714285716,51.0,35
+Epithelial (Breast),11,3772.7272727272725,49.0,38
+T cell,25,4116.08,3175.0,36
+B cell,15,5193.133333333333,3717.0,46
+Epithelial (Lung),8,5276.5,687.0,44
+Epithelial (Liver),7,6308.0,44.0,36
+Myeloid,13,7638.2307692307695,3717.0,1433
+Endothelial,9,8231.222222222223,3717.0,44
+Neural,10,9236.1,7883.5,40
+Fibroblast,8,10669.0,10398.0,39

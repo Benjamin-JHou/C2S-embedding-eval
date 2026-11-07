@@ -1,0 +1,26 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Large single-cell & perturbation raw data files
+*.h5ad
+*.gctx
+*.loom
+*.mtx
+*.rds
+
+# Script runtime outputs & temporary reports
+Code/output/
+Code/data/
+Code/PIPELINE_VALIDATION_REPORT.md

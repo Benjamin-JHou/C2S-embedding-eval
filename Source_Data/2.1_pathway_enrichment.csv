@@ -1,0 +1,4 @@
+pathway,n_compounds,n_positive,n_negative,pos_mean_score,candidate_mean,MWU_stat,MWU_pval
+ER_signaling,7,7,0,0.33877220727790763,,,
+RTK_signaling,9,9,0,0.3603933990940853,,,
+Hormone,6,0,6,,,,

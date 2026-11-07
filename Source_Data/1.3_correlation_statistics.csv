@@ -1,0 +1,2 @@
+n_lineages,spearman_rho,p_value,significant_at_005,bootstrap_ci_lower,bootstrap_ci_upper,bootstrap_mean_rho,n_bootstrap
+22,0.30338987892845337,0.16988656646584993,False,-0.09475140023883333,0.6657800012902394,0.30222015173564354,1000

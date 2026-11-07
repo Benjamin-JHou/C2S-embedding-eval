@@ -1,0 +1,2 @@
+total_screened,known_positives,known_negatives,known_naturals,novel_candidates,positive_mean_score,negative_mean_score,positive_mean_rank,negative_mean_rank,mwu_p_value,cohens_d,candidates_above_neg_mean,top10_novel
+9119,7,14,7,9091,0.26988496771478165,0.1485668503805392,1385.0,4694.285714285715,0.0011351909184726522,1.3200864761078883,2436,"BRD-K27630390, BRD-K02931142, BRD-K75940587, BRD-K74709515, cyclopiazonic-acid, raloxifene, PSH-023, BRD-A68890828, biotin, BMY-14802"
