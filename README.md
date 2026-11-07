@@ -1,4 +1,4 @@
-# C2S-Embedding-Eval: Systematic Benchmarking and Domain Evaluation of Cell2Sentence Single-Cell Embeddings
+# C2S-Embedding-Eval
 
 **C2S-Embedding-Eval** is a computational benchmarking and evaluation suite designed to systematically quantify the representation quality, domain dependency, subpopulation resolution, and perturbation-screening utility of **Cell2Sentence (`C2S-Pythia-410M`)** single-cell foundation model embeddings against classical linear dimensionality reduction (**PCA**).
 
